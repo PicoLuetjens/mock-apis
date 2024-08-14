@@ -1,0 +1,261 @@
+"data": [
+        {
+            "keyword": "abstract",
+            "definition": "Used to define an abstract class or method. Abstract classes cannot be instantiated and abstract methods must be implemented by derived classes.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "any",
+            "definition": "Represents any value and disables type checking for the variable it is assigned to.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "as",
+            "definition": "Used to assert a type. It tells TypeScript to treat a value as a specific type.",
+            "type": "Type Assertion"
+        },
+        {
+            "keyword": "asserts",
+            "definition": "Used in a function signature to assert that a value meets a certain type, typically used in type guards.",
+            "type": "Type Assertion"
+        },
+        {
+            "keyword": "boolean",
+            "definition": "Represents a boolean value (`true` or `false`).",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "class",
+            "definition": "Defines a class, which is a blueprint for creating objects with properties and methods.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "const",
+            "definition": "Declares a constant variable that cannot be reassigned after its initial assignment.",
+            "type": "Variable Declaration"
+        },
+        {
+            "keyword": "constructor",
+            "definition": "A special method for creating and initializing an object created with a class.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the rest of the current loop iteration and proceeds with the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "declare",
+            "definition": "Used to declare variables and functions that are defined elsewhere, often in external libraries or modules.",
+            "type": "Type Declaration"
+        },
+        {
+            "keyword": "default",
+            "definition": "Specifies the default block of code in a switch statement if none of the case values match.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "delete",
+            "definition": "Removes a property from an object.",
+            "type": "Object Management"
+        },
+        {
+            "keyword": "do",
+            "definition": "Starts a do-while loop that executes a block of code once before checking the condition.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "enum",
+            "definition": "Defines a set of named constants. Enums can be used to create a collection of related values.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "export",
+            "definition": "Used to export functions, classes, or variables from a module so they can be imported by other modules.",
+            "type": "Module"
+        },
+        {
+            "keyword": "extends",
+            "definition": "Used in class declarations to create a class that inherits from a base class.",
+            "type": "Class Inheritance"
+        },
+        {
+            "keyword": "false",
+            "definition": "Represents a boolean value indicating `false`.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "for",
+            "definition": "Starts a for loop to iterate over a range of values or items in an array.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "function",
+            "definition": "Defines a function, which is a block of code designed to perform a specific task.",
+            "type": "Function Definition"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "implements",
+            "definition": "Used in class declarations to specify that a class implements an interface.",
+            "type": "Interface Implementation"
+        },
+        {
+            "keyword": "import",
+            "definition": "Brings functions, classes, or variables from other modules into the current module.",
+            "type": "Module"
+        },
+        {
+            "keyword": "in",
+            "definition": "Checks if a property exists in an object or an element exists in an array.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "instanceof",
+            "definition": "Tests whether an object is an instance of a specific class or subclass.",
+            "type": "Type Checking"
+        },
+        {
+            "keyword": "interface",
+            "definition": "Defines a contract that classes must follow. Interfaces can include methods and properties.",
+            "type": "Interface Definition"
+        },
+        {
+            "keyword": "let",
+            "definition": "Declares a block-scoped variable that can be reassigned.",
+            "type": "Variable Declaration"
+        },
+        {
+            "keyword": "module",
+            "definition": "Defines a module that can be imported and exported from other modules.",
+            "type": "Module"
+        },
+        {
+            "keyword": "namespace",
+            "definition": "Organizes code into logical groups to avoid naming collisions.",
+            "type": "Namespace"
+        },
+        {
+            "keyword": "new",
+            "definition": "Creates a new instance of a class or a constructor function.",
+            "type": "Object Creation"
+        },
+        {
+            "keyword": "null",
+            "definition": "Represents the intentional absence of any object value.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "number",
+            "definition": "Represents both integer and floating-point numbers.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "object",
+            "definition": "Represents a non-primitive data type that can hold multiple values.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "private",
+            "definition": "Specifies that a class member is accessible only within the class itself.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "protected",
+            "definition": "Specifies that a class member is accessible within the class and by subclasses.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "public",
+            "definition": "Specifies that a class member is accessible from any other class.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "readonly",
+            "definition": "Marks a property as read-only, meaning it can only be assigned during declaration or within the constructor.",
+            "type": "Modifier"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits a function and optionally returns a value.",
+            "type": "Function Control"
+        },
+        {
+            "keyword": "string",
+            "definition": "Represents a sequence of characters.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "super",
+            "definition": "Refers to the superclass of the current object, used to access superclass methods and properties.",
+            "type": "Class Inheritance"
+        },
+        {
+            "keyword": "switch",
+            "definition": "Executes different parts of code based on the value of an expression.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "symbol",
+            "definition": "Represents a unique and immutable primitive value, often used as object property keys.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "this",
+            "definition": "Refers to the current instance of the class or object.",
+            "type": "Reference"
+        },
+        {
+            "keyword": "throw",
+            "definition": "Throws an exception to be handled by a catch block or propagated up the call stack.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "try",
+            "definition": "Starts a block of code that will be tested for exceptions.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "type",
+            "definition": "Used to define custom types and type aliases.",
+            "type": "Type Definition"
+        },
+        {
+            "keyword": "undefined",
+            "definition": "Represents a variable that has not been assigned a value.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "unique",
+            "definition": "Ensures a value is unique among all values of its type, often used in type checking.",
+            "type": "Type Modifier"
+        },
+        {
+            "keyword": "void",
+            "definition": "Specifies that a function does not return a value.",
+            "type": "Function Declaration"
+        },
+        {
+            "keyword": "while",
+            "definition": "Creates a while loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "with",
+            "definition": "Extends the scope chain for a block of code. Generally discouraged due to potential issues with scope pollution.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "yield",
+            "definition": "Pauses a generator function and returns a value to the generator's caller.",
+            "type": "Generator"
+        }]

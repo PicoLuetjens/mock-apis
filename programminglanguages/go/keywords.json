@@ -1,0 +1,126 @@
+"data": [
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "case",
+            "definition": "Specifies a branch in a switch statement. Each case corresponds to a constant value.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "chan",
+            "definition": "Defines a channel for communication between goroutines.",
+            "type": "Concurrency"
+        },
+        {
+            "keyword": "const",
+            "definition": "Defines a constant value that cannot be changed once set.",
+            "type": "Constant"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the remaining code in the current iteration of a loop and proceeds with the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "default",
+            "definition": "Specifies the default case in a switch statement if no other case matches.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "defer",
+            "definition": "Schedules a function to be executed after the surrounding function completes.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "fallthrough",
+            "definition": "Used in a switch statement to continue execution with the next case.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "for",
+            "definition": "Starts a loop that can iterate over a range or execute until a condition is met.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "func",
+            "definition": "Defines a function or method.",
+            "type": "Function"
+        },
+        {
+            "keyword": "go",
+            "definition": "Starts a new goroutine for concurrent execution of a function.",
+            "type": "Concurrency"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "import",
+            "definition": "Brings packages into the current file so their functions and types can be used.",
+            "type": "Package Management"
+        },
+        {
+            "keyword": "interface",
+            "definition": "Defines a contract for methods that types must implement.",
+            "type": "Type"
+        },
+        {
+            "keyword": "map",
+            "definition": "Defines a map data structure for storing key-value pairs.",
+            "type": "Data Structure"
+        },
+        {
+            "keyword": "package",
+            "definition": "Defines a package, which is a way to organize Go code into modules.",
+            "type": "Package Management"
+        },
+        {
+            "keyword": "range",
+            "definition": "Iterates over elements in a variety of data structures, such as arrays and slices.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits from a function and optionally returns a value to the caller.",
+            "type": "Function Control"
+        },
+        {
+            "keyword": "select",
+            "definition": "Waits on multiple channel operations and proceeds with the first one that is ready.",
+            "type": "Concurrency"
+        },
+        {
+            "keyword": "struct",
+            "definition": "Defines a composite data type that groups together variables (fields) under a single name.",
+            "type": "Data Structure"
+        },
+        {
+            "keyword": "switch",
+            "definition": "Evaluates an expression and executes the corresponding case block.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "type",
+            "definition": "Defines a new type or alias for an existing type.",
+            "type": "Type Definition"
+        },
+        {
+            "keyword": "var",
+            "definition": "Defines a variable with a specified type and an optional initial value.",
+            "type": "Variable Declaration"
+        },
+        {
+            "keyword": "interface",
+            "definition": "Defines an interface that specifies methods a type must implement.",
+            "type": "Type Definition"
+        }]

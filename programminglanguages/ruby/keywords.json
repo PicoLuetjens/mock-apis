@@ -1,0 +1,191 @@
+"data": [
+        {
+            "keyword": "alias",
+            "definition": "Creates an alias for an existing method or variable.",
+            "type": "Method/Variable"
+        },
+        {
+            "keyword": "and",
+            "definition": "Logical AND operator. Returns true if both operands are true.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "BEGIN",
+            "definition": "A special constant used to execute code at the start of a Ruby program.",
+            "type": "Special Constant"
+        },
+        {
+            "keyword": "begin",
+            "definition": "Starts a block of code that will be executed and can be followed by rescue, else, and ensure blocks for exception handling.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or block.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "case",
+            "definition": "A conditional expression that selects among multiple alternatives.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "class",
+            "definition": "Defines a new class, a blueprint for creating objects with methods and properties.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "def",
+            "definition": "Defines a method, a block of code that performs a specific task.",
+            "type": "Method Definition"
+        },
+        {
+            "keyword": "defined?",
+            "definition": "Checks if a given expression or variable is defined.",
+            "type": "Expression"
+        },
+        {
+            "keyword": "do",
+            "definition": "Starts a block of code, often used with iterators and loops.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if or case statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "elsif",
+            "definition": "Provides an additional condition to be checked if the preceding if condition is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "end",
+            "definition": "Ends a block of code for classes, methods, and control structures.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "ensure",
+            "definition": "Defines a block of code that will always be executed after the begin and rescue blocks, regardless of whether an exception was raised.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "false",
+            "definition": "Represents a boolean value indicating `false`.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "for",
+            "definition": "Used to iterate over a range or collection.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "in",
+            "definition": "Checks membership in a collection or range.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "module",
+            "definition": "Defines a module, a collection of methods and constants that can be included in classes.",
+            "type": "Module Definition"
+        },
+        {
+            "keyword": "next",
+            "definition": "Skips the rest of the current iteration and proceeds with the next iteration in a loop.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "nil",
+            "definition": "Represents the absence of a value or `null`.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "not",
+            "definition": "Logical negation operator. Returns true if the operand is false.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "or",
+            "definition": "Logical OR operator. Returns true if at least one of the operands is true.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "raise",
+            "definition": "Raises an exception, which can be handled by rescue blocks.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "redo",
+            "definition": "Repeats the current iteration of a loop.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "rescue",
+            "definition": "Defines a block of code that will handle exceptions raised in the associated begin block.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "retry",
+            "definition": "Retries the execution of the code in the begin block after handling an exception.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits from a method and optionally returns a value.",
+            "type": "Method Control"
+        },
+        {
+            "keyword": "self",
+            "definition": "Refers to the current instance of a class or module.",
+            "type": "Reference"
+        },
+        {
+            "keyword": "super",
+            "definition": "Calls a method from the superclass in a derived class.",
+            "type": "Class Inheritance"
+        },
+        {
+            "keyword": "then",
+            "definition": "Follows an if or case condition and introduces the block of code to execute if the condition is true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "true",
+            "definition": "Represents a boolean value indicating `true`.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "undef",
+            "definition": "Removes the definition of a method, making it undefined.",
+            "type": "Method Control"
+        },
+        {
+            "keyword": "unless",
+            "definition": "Executes a block of code if the condition is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "until",
+            "definition": "Starts a loop that continues executing until its condition becomes true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "when",
+            "definition": "Defines a branch in a case statement that executes if its value matches the case expression.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "while",
+            "definition": "Starts a loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "yield",
+            "definition": "Pauses the execution of a method and passes control back to the block of code that was passed to it.",
+            "type": "Method Control"
+        }]

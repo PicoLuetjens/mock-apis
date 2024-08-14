@@ -1,0 +1,191 @@
+"data": [
+        {
+            "keyword": "await",
+            "definition": "Pauses the execution of an async function until a Promise is resolved.",
+            "type": "Asynchronous"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "case",
+            "definition": "Defines a branch in a switch statement. Each case corresponds to a constant value.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "catch",
+            "definition": "Defines a block of code to be executed if an error occurs in the try block.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "class",
+            "definition": "Used to define a class, which is a blueprint for creating objects.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "const",
+            "definition": "Defines a read-only constant. The value cannot be reassigned.",
+            "type": "Variable Declaration"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the rest of the code inside a loop for the current iteration and proceeds to the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "debugger",
+            "definition": "Invokes the debugger statement. It is used to pause the execution of JavaScript and invoke debugging functionality.",
+            "type": "Debugging"
+        },
+        {
+            "keyword": "default",
+            "definition": "Specifies the default block of code in a switch statement if none of the case values match.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "delete",
+            "definition": "Deletes a property from an object.",
+            "type": "Object Management"
+        },
+        {
+            "keyword": "do",
+            "definition": "Used to start a do-while loop, which executes the block of code once before checking the condition.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "double",
+            "definition": "Not used in JavaScript. JavaScript uses `number` for all numeric values.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "enum",
+            "definition": "Not used in JavaScript. JavaScript uses objects or symbols for similar purposes.",
+            "type": "Reserved"
+        },
+        {
+            "keyword": "export",
+            "definition": "Used to export functions, objects, or primitives from a module so they can be used in other modules.",
+            "type": "Module"
+        },
+        {
+            "keyword": "extends",
+            "definition": "Used in class declarations to create a class that is a child of another class.",
+            "type": "Class Inheritance"
+        },
+        {
+            "keyword": "finally",
+            "definition": "Defines a block of code that is always executed after the try and catch blocks, regardless of whether an exception was thrown.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "for",
+            "definition": "Used to start a for loop that iterates over a range of values or an array.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "function",
+            "definition": "Used to declare a function, which is a block of code designed to perform a particular task.",
+            "type": "Function Definition"
+        },
+        {
+            "keyword": "if",
+            "definition": "Used to execute a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "import",
+            "definition": "Used to import functions, objects, or primitives from other modules.",
+            "type": "Module"
+        },
+        {
+            "keyword": "in",
+            "definition": "Checks if a property exists in an object or if an element exists in an array.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "instanceof",
+            "definition": "Tests whether an object is an instance of a specific class or subclass.",
+            "type": "Type Checking"
+        },
+        {
+            "keyword": "let",
+            "definition": "Declares a block-scoped variable. Unlike `var`, it does not hoist to the top of its block.",
+            "type": "Variable Declaration"
+        },
+        {
+            "keyword": "new",
+            "definition": "Creates a new instance of a class or constructor function.",
+            "type": "Object Creation"
+        },
+        {
+            "keyword": "null",
+            "definition": "Represents the intentional absence of any object value.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits a function and optionally returns a value.",
+            "type": "Function Control"
+        },
+        {
+            "keyword": "super",
+            "definition": "Refers to the superclass of the current object and is used to access its methods and properties.",
+            "type": "Class Inheritance"
+        },
+        {
+            "keyword": "switch",
+            "definition": "Executes code blocks based on the value of an expression.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "this",
+            "definition": "Refers to the current instance of the class or object in which it is used.",
+            "type": "Reference"
+        },
+        {
+            "keyword": "throw",
+            "definition": "Throws an exception to be caught by catch blocks or to propagate up the call stack.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "try",
+            "definition": "Starts a block of code that will be tested for exceptions.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "typeof",
+            "definition": "Returns a string indicating the type of the operand.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "var",
+            "definition": "Declares a variable that is function-scoped or globally-scoped and is hoisted.",
+            "type": "Variable Declaration"
+        },
+        {
+            "keyword": "void",
+            "definition": "Evaluates an expression and returns undefined, typically used to ignore a function's return value.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "while",
+            "definition": "Creates a while loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "with",
+            "definition": "Extends the scope chain for a block of code. It is not recommended for use and can lead to confusing code.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "yield",
+            "definition": "Pauses a generator function and returns a value to the generator's caller.",
+            "type": "Generator"
+        }]

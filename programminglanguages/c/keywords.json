@@ -1,0 +1,161 @@
+"data": [
+        {
+            "keyword": "auto",
+            "definition": "Specifies that a variable has automatic storage duration (local to the block). This is the default storage class for local variables.",
+            "type": "Storage Class"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "case",
+            "definition": "Defines a branch in a switch statement. Each case corresponds to a constant value.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "char",
+            "definition": "Specifies a variable that holds a single character. Typically, 1 byte in size.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "const",
+            "definition": "Defines a variable whose value cannot be changed after initialization.",
+            "type": "Type Qualifier"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the rest of the current loop iteration and proceeds with the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "default",
+            "definition": "Specifies the default block of code in a switch statement if none of the case values match.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "do",
+            "definition": "Starts a do-while loop that executes a block of code once before checking the condition.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "double",
+            "definition": "Specifies a variable that holds a double-precision floating-point number.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "enum",
+            "definition": "Defines a set of named integer constants. Enums are used to declare a collection of constants that are logically related.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "extern",
+            "definition": "Declares a variable or function that is defined in another file or module.",
+            "type": "Storage Class"
+        },
+        {
+            "keyword": "float",
+            "definition": "Specifies a variable that holds a single-precision floating-point number.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "for",
+            "definition": "Starts a for loop that iterates over a range of values or an array.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "goto",
+            "definition": "Transfers control to a labeled statement. Generally discouraged as it can make code harder to understand.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "int",
+            "definition": "Specifies a variable that holds an integer value. The size of int can vary between implementations.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "long",
+            "definition": "Specifies a variable that holds a long integer value. It typically has more storage than int.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "register",
+            "definition": "Suggests that a variable should be stored in a CPU register to improve access speed. The actual implementation is up to the compiler.",
+            "type": "Storage Class"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits a function and optionally returns a value to the caller.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "short",
+            "definition": "Specifies a variable that holds a short integer value. It typically has less storage than int.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "signed",
+            "definition": "Specifies that a variable can hold both positive and negative values. This is the default for integer types.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "sizeof",
+            "definition": "Returns the size of a data type or object in bytes.",
+            "type": "Operator"
+        },
+        {
+            "keyword": "static",
+            "definition": "Defines a variable or function that retains its value between function calls. Also restricts visibility to the file or function it is defined in.",
+            "type": "Storage Class"
+        },
+        {
+            "keyword": "struct",
+            "definition": "Defines a composite data type that groups variables of different types under a single name.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "switch",
+            "definition": "Executes different parts of code based on the value of an expression.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "typedef",
+            "definition": "Creates a new type name for an existing data type.",
+            "type": "Type Definition"
+        },
+        {
+            "keyword": "union",
+            "definition": "Defines a composite data type that allows different types to occupy the same memory location.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "unsigned",
+            "definition": "Specifies that a variable can only hold non-negative values.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "void",
+            "definition": "Specifies that a function does not return a value or that a pointer does not point to any data type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "volatile",
+            "definition": "Indicates that a variable's value may be changed by external factors and prevents optimization by the compiler.",
+            "type": "Type Qualifier"
+        },
+        {
+            "keyword": "while",
+            "definition": "Creates a while loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        }]

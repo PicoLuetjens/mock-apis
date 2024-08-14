@@ -1,0 +1,166 @@
+"data": [
+        {
+            "keyword": "False",
+            "definition": "Boolean value indicating falsehood. It is a constant of the type bool.",
+            "type": "Boolean"
+        },
+        {
+            "keyword": "None",
+            "definition": "A special constant representing the absence of a value or a null value.",
+            "type": "NoneType"
+        },
+        {
+            "keyword": "True",
+            "definition": "Boolean value indicating truth. It is a constant of the type bool.",
+            "type": "Boolean"
+        },
+        {
+            "keyword": "and",
+            "definition": "Logical operator that returns True if both operands are true.",
+            "type": "Logical Operator"
+        },
+        {
+            "keyword": "as",
+            "definition": "Used to create an alias while importing a module.",
+            "type": "Keyword"
+        },
+        {
+            "keyword": "assert",
+            "definition": "Used for debugging purposes. Tests if a condition is true.",
+            "type": "Debugging"
+        },
+        {
+            "keyword": "break",
+            "definition": "Terminates the nearest enclosing loop statement.",
+            "type": "Loop Control"
+        },
+        {
+            "keyword": "class",
+            "definition": "Used to define a new user-defined class.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the rest of the code inside the enclosing loop for the current iteration.",
+            "type": "Loop Control"
+        },
+        {
+            "keyword": "def",
+            "definition": "Used to define a new function.",
+            "type": "Function Definition"
+        },
+        {
+            "keyword": "del",
+            "definition": "Deletes a reference to an object.",
+            "type": "Object Management"
+        },
+        {
+            "keyword": "elif",
+            "definition": "Used in conditional statements, similar to 'else if' in other languages.",
+            "type": "Conditional"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an 'if' statement is false.",
+            "type": "Conditional"
+        },
+        {
+            "keyword": "except",
+            "definition": "Used with exceptions. Defines a block of code to be executed if an exception occurs.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "finally",
+            "definition": "Defines a block of code that will be executed no matter what, even if an exception is raised.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "for",
+            "definition": "Used to create a for loop, which iterates over a sequence.",
+            "type": "Loop Control"
+        },
+        {
+            "keyword": "from",
+            "definition": "Used to import specific parts of a module.",
+            "type": "Import"
+        },
+        {
+            "keyword": "global",
+            "definition": "Used to declare that a variable inside a function is global.",
+            "type": "Scope"
+        },
+        {
+            "keyword": "if",
+            "definition": "Used to make decisions in code. Executes a block of code if its condition is true.",
+            "type": "Conditional"
+        },
+        {
+            "keyword": "import",
+            "definition": "Used to include the definitions (functions, classes, variables) from a module.",
+            "type": "Import"
+        },
+        {
+            "keyword": "in",
+            "definition": "Used to check if a value exists within an iterable object.",
+            "type": "Membership"
+        },
+        {
+            "keyword": "is",
+            "definition": "Used to test object identity, meaning if two variables point to the same object.",
+            "type": "Identity"
+        },
+        {
+            "keyword": "lambda",
+            "definition": "Used to create an anonymous function (a function with no name).",
+            "type": "Function"
+        },
+        {
+            "keyword": "nonlocal",
+            "definition": "Used to declare that a variable refers to a variable in the nearest enclosing scope that is not global.",
+            "type": "Scope"
+        },
+        {
+            "keyword": "not",
+            "definition": "Logical operator that returns True if the operand is false.",
+            "type": "Logical Operator"
+        },
+        {
+            "keyword": "or",
+            "definition": "Logical operator that returns True if at least one of the operands is true.",
+            "type": "Logical Operator"
+        },
+        {
+            "keyword": "pass",
+            "definition": "A null statement. It is used as a placeholder for future code.",
+            "type": "Placeholder"
+        },
+        {
+            "keyword": "raise",
+            "definition": "Used to raise an exception.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits a function and optionally returns a value.",
+            "type": "Function Control"
+        },
+        {
+            "keyword": "try",
+            "definition": "Used to start a block of code that will be tested for exceptions.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "while",
+            "definition": "Creates a while loop, which continues as long as its condition is true.",
+            "type": "Loop Control"
+        },
+        {
+            "keyword": "with",
+            "definition": "Used to wrap the execution of a block of code within methods defined by context managers.",
+            "type": "Context Management"
+        },
+        {
+            "keyword": "yield",
+            "definition": "Used to produce a value from a generator function and pause its execution.",
+            "type": "Generator"
+        }]

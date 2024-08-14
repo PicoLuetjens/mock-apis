@@ -1,0 +1,409 @@
+"data": [
+        {
+            "tag": "a",
+            "definition": "Defines a hyperlink that links to another page or resource.",
+            "attributes": ["href", "target", "rel"],
+            "type": "Inline"
+        },
+        {
+            "tag": "abbr",
+            "definition": "Defines an abbreviation or acronym. The full expansion of the abbreviation can be provided using the 'title' attribute.",
+            "attributes": ["title"],
+            "type": "Inline"
+        },
+        {
+            "tag": "address",
+            "definition": "Defines contact information for the author or owner of a document or an article.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "area",
+            "definition": "Defines a clickable area within an image map.",
+            "attributes": ["shape", "coords", "href", "alt"],
+            "type": "Inline"
+        },
+        {
+            "tag": "article",
+            "definition": "Defines an independent, self-contained piece of content.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "aside",
+            "definition": "Defines content aside from the content it is placed in, such as a sidebar.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "b",
+            "definition": "Defines bold text. Use 'strong' for more semantic emphasis.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "blockquote",
+            "definition": "Defines a section that is quoted from another source.",
+            "attributes": ["cite"],
+            "type": "Block"
+        },
+        {
+            "tag": "button",
+            "definition": "Defines a clickable button.",
+            "attributes": ["type", "disabled", "form", "name", "value"],
+            "type": "Inline"
+        },
+        {
+            "tag": "canvas",
+            "definition": "Defines a canvas element for drawing graphics via JavaScript.",
+            "attributes": ["width", "height"],
+            "type": "Inline"
+        },
+        {
+            "tag": "caption",
+            "definition": "Defines a table caption.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "cite",
+            "definition": "Defines the title of a work. Typically used to reference books, movies, or other media.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "code",
+            "definition": "Defines a piece of computer code.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "data",
+            "definition": "Links a given content with a machine-readable translation.",
+            "attributes": ["value"],
+            "type": "Inline"
+        },
+        {
+            "tag": "details",
+            "definition": "Defines additional details that the user can view or hide.",
+            "attributes": ["open"],
+            "type": "Block"
+        },
+        {
+            "tag": "dfn",
+            "definition": "Defines a term that is going to be defined within the content.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "div",
+            "definition": "Defines a division or section in an HTML document. Used as a container for other elements.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "dl",
+            "definition": "Defines a description list. Contains one or more 'dt' (definition term) and 'dd' (definition description) elements.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "dt",
+            "definition": "Defines a term in a description list.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "dd",
+            "definition": "Defines a description in a description list.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "em",
+            "definition": "Defines emphasized text. Typically displayed in italics.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "footer",
+            "definition": "Defines a footer for a document or section.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "form",
+            "definition": "Defines an HTML form for user input.",
+            "attributes": ["action", "method", "enctype"],
+            "type": "Block"
+        },
+        {
+            "tag": "h1",
+            "definition": "Defines the most important heading. Headings range from 'h1' to 'h6'.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "head",
+            "definition": "Defines metadata about an HTML document. Contains elements like 'title', 'meta', and 'link'.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "header",
+            "definition": "Defines a header for a document or section.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "hr",
+            "definition": "Defines a thematic break or horizontal line.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "html",
+            "definition": "Defines the root of an HTML document.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "i",
+            "definition": "Defines italic text. Use 'em' for more semantic emphasis.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "iframe",
+            "definition": "Defines an inline frame that can embed another document within the current page.",
+            "attributes": ["src", "width", "height"],
+            "type": "Inline"
+        },
+        {
+            "tag": "img",
+            "definition": "Defines an image.",
+            "attributes": ["src", "alt", "width", "height"],
+            "type": "Inline"
+        },
+        {
+            "tag": "input",
+            "definition": "Defines an input control. The type of input is specified by the 'type' attribute.",
+            "attributes": ["type", "name", "value", "placeholder"],
+            "type": "Inline"
+        },
+        {
+            "tag": "label",
+            "definition": "Defines a label for an 'input' element.",
+            "attributes": ["for"],
+            "type": "Inline"
+        },
+        {
+            "tag": "legend",
+            "definition": "Defines a caption for a 'fieldset' element.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "li",
+            "definition": "Defines a list item in ordered or unordered lists.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "link",
+            "definition": "Defines the relationship between the current document and an external resource (most often used for linking to stylesheets).",
+            "attributes": ["rel", "href", "type"],
+            "type": "Inline"
+        },
+        {
+            "tag": "main",
+            "definition": "Defines the main content of a document.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "map",
+            "definition": "Defines an image map, used with the 'area' tag to define clickable areas within an image.",
+            "attributes": ["name"],
+            "type": "Block"
+        },
+        {
+            "tag": "mark",
+            "definition": "Defines highlighted text.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "meta",
+            "definition": "Defines metadata about an HTML document, such as the document's character set, viewport settings, or author.",
+            "attributes": ["name", "content"],
+            "type": "Inline"
+        },
+        {
+            "tag": "meter",
+            "definition": "Defines a scalar measurement within a known range, such as a disk usage or battery level.",
+            "attributes": ["min", "max", "value"],
+            "type": "Inline"
+        },
+        {
+            "tag": "nav",
+            "definition": "Defines a navigation section, typically containing links to other parts of the site.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "ol",
+            "definition": "Defines an ordered list.",
+            "attributes": ["type", "start"],
+            "type": "Block"
+        },
+        {
+            "tag": "option",
+            "definition": "Defines an option in a dropdown list.",
+            "attributes": ["value", "selected"],
+            "type": "Inline"
+        },
+        {
+            "tag": "p",
+            "definition": "Defines a paragraph.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "pre",
+            "definition": "Defines preformatted text, displayed in a fixed-width font and preserving whitespace.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "progress",
+            "definition": "Defines a progress bar.",
+            "attributes": ["value", "max"],
+            "type": "Inline"
+        },
+        {
+            "tag": "section",
+            "definition": "Defines a section of content, typically with a heading.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "select",
+            "definition": "Defines a dropdown list.",
+            "attributes": ["multiple", "size"],
+            "type": "Block"
+        },
+        {
+            "tag": "small",
+            "definition": "Defines smaller text, typically used for fine print.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "span",
+            "definition": "Defines a section of text or inline elements, typically used for styling purposes.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "strong",
+            "definition": "Defines important text. Typically displayed in bold.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "style",
+            "definition": "Defines CSS styles for the document.",
+            "attributes": ["type"],
+            "type": "Inline"
+        },
+        {
+            "tag": "sub",
+            "definition": "Defines subscript text.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "summary",
+            "definition": "Defines a summary or heading for a 'details' element.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "sup",
+            "definition": "Defines superscript text.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "table",
+            "definition": "Defines a table.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "tbody",
+            "definition": "Groups the body content in a table.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "td",
+            "definition": "Defines a cell in a table.",
+            "attributes": ["colspan", "rowspan"],
+            "type": "Block"
+        },
+        {
+            "tag": "tfoot",
+            "definition": "Groups the footer content in a table.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "th",
+            "definition": "Defines a header cell in a table.",
+            "attributes": ["colspan", "rowspan"],
+            "type": "Block"
+        },
+        {
+            "tag": "thead",
+            "definition": "Groups the header content in a table.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "title",
+            "definition": "Defines the title of the document, shown in the browser's title bar or tab.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "tr",
+            "definition": "Defines a row in a table.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "ul",
+            "definition": "Defines an unordered list.",
+            "attributes": [],
+            "type": "Block"
+        },
+        {
+            "tag": "var",
+            "definition": "Defines a variable in a mathematical expression or programming context.",
+            "attributes": [],
+            "type": "Inline"
+        },
+        {
+            "tag": "video",
+            "definition": "Defines a video or movie.",
+            "attributes": ["src", "width", "height", "controls"],
+            "type": "Block"
+        },
+        {
+            "tag": "wbr",
+            "definition": "Suggests an optional line break opportunity within text.",
+            "attributes": [],
+            "type": "Inline"
+        }]

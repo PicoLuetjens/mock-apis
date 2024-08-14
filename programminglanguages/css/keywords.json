@@ -1,0 +1,146 @@
+"data": [
+        {
+            "property": "color",
+            "definition": "Sets the color of the text.",
+            "values": ["#FF5733", "rgb(255, 87, 51)", "rgba(255, 87, 51, 0.8)", "hsl(12, 100%, 60%)"],
+            "type": "Text"
+        },
+        {
+            "property": "background-color",
+            "definition": "Sets the background color of an element.",
+            "values": ["#FFFFFF", "rgb(255, 255, 255)", "rgba(255, 255, 255, 0.5)", "hsl(0, 0%, 100%)"],
+            "type": "Background"
+        },
+        {
+            "property": "border",
+            "definition": "Sets the border of an element. This is a shorthand property for border-width, border-style, and border-color.",
+            "values": ["1px solid black", "2px dashed red", "3px dotted blue"],
+            "type": "Box Model"
+        },
+        {
+            "property": "font-size",
+            "definition": "Sets the size of the font.",
+            "values": ["16px", "1em", "1.5rem", "12pt"],
+            "type": "Text"
+        },
+        {
+            "property": "margin",
+            "definition": "Sets the margin area on all four sides of an element. This is a shorthand property for margin-top, margin-right, margin-bottom, and margin-left.",
+            "values": ["10px", "1em", "5%", "0 auto"],
+            "type": "Box Model"
+        },
+        {
+            "property": "padding",
+            "definition": "Sets the padding area on all four sides of an element. This is a shorthand property for padding-top, padding-right, padding-bottom, and padding-left.",
+            "values": ["10px", "1em", "5%", "0 auto"],
+            "type": "Box Model"
+        },
+        {
+            "property": "display",
+            "definition": "Specifies how an element is displayed on the page.",
+            "values": ["block", "inline", "flex", "grid", "none"],
+            "type": "Layout"
+        },
+        {
+            "property": "position",
+            "definition": "Specifies the type of positioning method used for an element.",
+            "values": ["static", "relative", "absolute", "fixed", "sticky"],
+            "type": "Layout"
+        },
+        {
+            "property": "z-index",
+            "definition": "Sets the stack order of an element. Elements with a higher z-index are displayed in front of those with a lower z-index.",
+            "values": ["1", "10", "100", "-1"],
+            "type": "Layout"
+        },
+        {
+            "property": "width",
+            "definition": "Sets the width of an element.",
+            "values": ["100px", "50%", "auto", "min-content"],
+            "type": "Box Model"
+        },
+        {
+            "property": "height",
+            "definition": "Sets the height of an element.",
+            "values": ["100px", "50%", "auto", "max-content"],
+            "type": "Box Model"
+        },
+        {
+            "property": "overflow",
+            "definition": "Specifies what should happen if content overflows an element's box.",
+            "values": ["visible", "hidden", "scroll", "auto"],
+            "type": "Box Model"
+        },
+        {
+            "property": "text-align",
+            "definition": "Sets the horizontal alignment of text.",
+            "values": ["left", "right", "center", "justify"],
+            "type": "Text"
+        },
+        {
+            "property": "font-family",
+            "definition": "Sets the font family for text.",
+            "values": ["Arial, sans-serif", "Georgia, serif", "Courier New, monospace"],
+            "type": "Text"
+        },
+        {
+            "property": "border-radius",
+            "definition": "Defines the radius of the element's corners. This is a shorthand property for border-top-left-radius, border-top-right-radius, border-bottom-right-radius, and border-bottom-left-radius.",
+            "values": ["5px", "10%", "50%", "1em"],
+            "type": "Box Model"
+        },
+        {
+            "property": "box-shadow",
+            "definition": "Applies one or more shadows to an element.",
+            "values": ["0 4px 8px rgba(0, 0, 0, 0.2)", "2px 2px 10px rgba(0, 0, 0, 0.5)"],
+            "type": "Effects"
+        },
+        {
+            "property": "transform",
+            "definition": "Applies a 2D or 3D transformation to an element.",
+            "values": ["rotate(45deg)", "scale(1.5)", "translateX(10px)", "skew(20deg, 10deg)"],
+            "type": "Effects"
+        },
+        {
+            "property": "opacity",
+            "definition": "Sets the transparency level of an element.",
+            "values": ["0", "0.5", "1"],
+            "type": "Effects"
+        },
+        {
+            "property": "cursor",
+            "definition": "Specifies the type of cursor to be displayed when pointing over an element.",
+            "values": ["default", "pointer", "crosshair", "move", "text"],
+            "type": "Interactive"
+        },
+        {
+            "property": "transition",
+            "definition": "Defines the transition effect when a property value changes.",
+            "values": ["all 0.3s ease", "opacity 0.5s linear", "transform 0.2s ease-in-out"],
+            "type": "Effects"
+        },
+        {
+            "selector": "p",
+            "definition": "Selects all <p> elements in the document.",
+            "examples": ["p { color: red; }"]
+        },
+        {
+            "selector": ".class-name",
+            "definition": "Selects all elements with the class 'class-name'.",
+            "examples": [".class-name { font-size: 16px; }"]
+        },
+        {
+            "selector": "#id-name",
+            "definition": "Selects the element with the ID 'id-name'.",
+            "examples": ["#id-name { background-color: blue; }"]
+        },
+        {
+            "selector": "element:hover",
+            "definition": "Selects an element when the mouse is over it.",
+            "examples": ["button:hover { background-color: green; }"]
+        },
+        {
+            "selector": "element::after",
+            "definition": "Inserts content after the content of an element.",
+            "examples": ["div::after { content: ' - Additional info'; }"]
+        }]

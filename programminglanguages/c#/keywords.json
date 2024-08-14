@@ -1,0 +1,381 @@
+"data": [
+        {
+            "keyword": "abstract",
+            "definition": "Defines an abstract class or method. An abstract class cannot be instantiated and an abstract method must be implemented by derived classes.",
+            "type": "Class Modifier"
+        },
+        {
+            "keyword": "as",
+            "definition": "Performs a safe type conversion and returns null if the conversion fails.",
+            "type": "Type Conversion"
+        },
+        {
+            "keyword": "base",
+            "definition": "Accesses members of the base class from within a derived class.",
+            "type": "Class Accessor"
+        },
+        {
+            "keyword": "bool",
+            "definition": "Defines a boolean type that can hold true or false.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "byte",
+            "definition": "Defines an 8-bit unsigned integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "case",
+            "definition": "Specifies a branch in a switch statement. Each case corresponds to a constant value.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "catch",
+            "definition": "Defines a block of code to handle exceptions thrown in a try block.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "char",
+            "definition": "Defines a single 16-bit Unicode character type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "checked",
+            "definition": "Enables overflow checking for integral-type arithmetic operations and conversions.",
+            "type": "Overflow Checking"
+        },
+        {
+            "keyword": "class",
+            "definition": "Defines a class, a user-defined type with attributes and methods.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "const",
+            "definition": "Defines a constant value that cannot be changed once set.",
+            "type": "Constant"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the remaining code in the current iteration of a loop and proceeds with the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "decimal",
+            "definition": "Defines a 128-bit precise decimal value.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "default",
+            "definition": "Specifies the default case in a switch statement if no other case matches.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "delegate",
+            "definition": "Defines a reference type that encapsulates a method with a specific signature.",
+            "type": "Type"
+        },
+        {
+            "keyword": "do",
+            "definition": "Starts a do-while loop that executes a block of code and then checks a condition.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "double",
+            "definition": "Defines a double-precision floating-point type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "dynamic",
+            "definition": "Defines a type that bypasses compile-time type checking and performs operations at runtime.",
+            "type": "Type"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "enum",
+            "definition": "Defines a set of named constants.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "event",
+            "definition": "Defines an event that can be triggered and subscribed to by other code.",
+            "type": "Event Handling"
+        },
+        {
+            "keyword": "explicit",
+            "definition": "Defines a conversion operator that must be explicitly invoked.",
+            "type": "Type Conversion"
+        },
+        {
+            "keyword": "extern",
+            "definition": "Indicates that a method or variable is defined in another file or assembly.",
+            "type": "Linkage"
+        },
+        {
+            "keyword": "finally",
+            "definition": "Defines a block of code that will always execute after a try block, regardless of whether an exception is thrown.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "fixed",
+            "definition": "Pins a variable in memory so that its address does not change, used with unmanaged code.",
+            "type": "Memory Management"
+        },
+        {
+            "keyword": "float",
+            "definition": "Defines a single-precision floating-point type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "for",
+            "definition": "Starts a loop that can iterate over a range or execute until a condition is met.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "foreach",
+            "definition": "Iterates over a collection or array.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "goto",
+            "definition": "Unconditionally jumps to a specified label within the same function.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "implicit",
+            "definition": "Defines a conversion operator that can be performed implicitly.",
+            "type": "Type Conversion"
+        },
+        {
+            "keyword": "in",
+            "definition": "Defines a parameter that is passed by reference but cannot be modified.",
+            "type": "Parameter Modifier"
+        },
+        {
+            "keyword": "int",
+            "definition": "Defines a 32-bit signed integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "interface",
+            "definition": "Defines a contract that classes must implement, including methods and properties.",
+            "type": "Type"
+        },
+        {
+            "keyword": "internal",
+            "definition": "Specifies that a member or type is accessible only within its own assembly.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "is",
+            "definition": "Checks if an object is compatible with a given type.",
+            "type": "Type Checking"
+        },
+        {
+            "keyword": "lock",
+            "definition": "Acquires a mutual-exclusion lock for a given object, ensuring thread safety.",
+            "type": "Concurrency"
+        },
+        {
+            "keyword": "long",
+            "definition": "Defines a 64-bit signed integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "namespace",
+            "definition": "Defines a scope that contains a set of identifiers to avoid name collisions.",
+            "type": "Namespace"
+        },
+        {
+            "keyword": "new",
+            "definition": "Allocates memory for an object and initializes it.",
+            "type": "Object Creation"
+        },
+        {
+            "keyword": "null",
+            "definition": "Represents a null reference.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "object",
+            "definition": "The base type from which all other types, both value types and reference types, derive.",
+            "type": "Base Type"
+        },
+        {
+            "keyword": "operator",
+            "definition": "Defines or overloads an operator for user-defined types.",
+            "type": "Operator Overloading"
+        },
+        {
+            "keyword": "out",
+            "definition": "Defines a parameter that is passed by reference and must be assigned within the method.",
+            "type": "Parameter Modifier"
+        },
+        {
+            "keyword": "override",
+            "definition": "Indicates that a method or property overrides a virtual method or property in a base class.",
+            "type": "Method Modification"
+        },
+        {
+            "keyword": "params",
+            "definition": "Allows a method to accept a variable number of arguments of a specified type.",
+            "type": "Parameter Modifier"
+        },
+        {
+            "keyword": "private",
+            "definition": "Specifies that members of a class are accessible only within the class itself.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "protected",
+            "definition": "Specifies that members of a class are accessible within the class and its derived classes.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "public",
+            "definition": "Specifies that members of a class are accessible from outside the class.",
+            "type": "Access Modifier"
+        },
+        {
+            "keyword": "readonly",
+            "definition": "Specifies that a field can only be assigned during declaration or in the constructor.",
+            "type": "Field Modifier"
+        },
+        {
+            "keyword": "ref",
+            "definition": "Defines a parameter that is passed by reference and can be modified within the method.",
+            "type": "Parameter Modifier"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits from a method and optionally returns a value to the caller.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "sbyte",
+            "definition": "Defines an 8-bit signed integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "sealed",
+            "definition": "Specifies that a class cannot be inherited.",
+            "type": "Class Modifier"
+        },
+        {
+            "keyword": "short",
+            "definition": "Defines a 16-bit signed integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "sizeof",
+            "definition": "Returns the size, in bytes, of a variable or type.",
+            "type": "Type Query"
+        },
+        {
+            "keyword": "stackalloc",
+            "definition": "Allocates memory on the stack for a new array.",
+            "type": "Memory Management"
+        },
+        {
+            "keyword": "static",
+            "definition": "Specifies that a member belongs to the type itself rather than to any specific instance.",
+            "type": "Member Modifier"
+        },
+        {
+            "keyword": "string",
+            "definition": "Defines a sequence of Unicode characters.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "struct",
+            "definition": "Defines a value type that can contain data members and methods.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "switch",
+            "definition": "Evaluates an expression and executes the corresponding case block.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "this",
+            "definition": "A reference to the current instance of a class.",
+            "type": "Reference"
+        },
+        {
+            "keyword": "throw",
+            "definition": "Throws an exception to be caught by a catch block.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "try",
+            "definition": "Defines a block of code that may throw exceptions, to be caught by catch blocks.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "typeof",
+            "definition": "Returns the System.Type object for a type.",
+            "type": "Type Query"
+        },
+        {
+            "keyword": "uint",
+            "definition": "Defines a 32-bit unsigned integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "ulong",
+            "definition": "Defines a 64-bit unsigned integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "unchecked",
+            "definition": "Disables overflow checking for integral-type arithmetic operations and conversions.",
+            "type": "Overflow Checking"
+        },
+        {
+            "keyword": "unsafe",
+            "definition": "Allows for pointer arithmetic and other operations that are not type-safe.",
+            "type": "Safety"
+        },
+        {
+            "keyword": "ushort",
+            "definition": "Defines a 16-bit unsigned integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "using",
+            "definition": "Defines an alias for a namespace or imports it into the current file.",
+            "type": "Namespace"
+        },
+        {
+            "keyword": "virtual",
+            "definition": "Indicates that a method or property can be overridden in derived classes.",
+            "type": "Method Modification"
+        },
+        {
+            "keyword": "void",
+            "definition": "Specifies that a method does not return a value.",
+            "type": "Return Type"
+        },
+        {
+            "keyword": "volatile",
+            "definition": "Indicates that a field can be accessed by multiple threads and should not be cached.",
+            "type": "Field Modifier"
+        },
+        {
+            "keyword": "while",
+            "definition": "Starts a loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        }]

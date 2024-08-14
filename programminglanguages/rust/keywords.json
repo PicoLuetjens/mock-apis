@@ -1,0 +1,171 @@
+"data": [
+        {
+            "keyword": "as",
+            "definition": "Used for type casting and renaming imports.",
+            "type": "Type Casting"
+        },
+        {
+            "keyword": "async",
+            "definition": "Marks a function as asynchronous, allowing it to return a `Future` and be used with `await`.",
+            "type": "Async Programming"
+        },
+        {
+            "keyword": "await",
+            "definition": "Pauses the execution of an asynchronous function until the result of a `Future` is available.",
+            "type": "Async Programming"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "const",
+            "definition": "Defines a constant value that cannot be changed after its definition.",
+            "type": "Constant"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the remaining code in the current iteration of a loop and proceeds with the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "crate",
+            "definition": "Defines a package or module in Rust, typically containing related functionality.",
+            "type": "Package"
+        },
+        {
+            "keyword": "dyn",
+            "definition": "Used to specify a dynamically dispatched trait object.",
+            "type": "Trait"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "enum",
+            "definition": "Defines a type that can be one of several variants, each of which can have different data.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "extern",
+            "definition": "Links to external code, often used for interfacing with other programming languages or libraries.",
+            "type": "Linking"
+        },
+        {
+            "keyword": "fn",
+            "definition": "Defines a function or a function-like item in Rust.",
+            "type": "Function"
+        },
+        {
+            "keyword": "for",
+            "definition": "Starts a for loop to iterate over a range or collection.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "impl",
+            "definition": "Implements methods and associated functions for a type or trait.",
+            "type": "Implementation"
+        },
+        {
+            "keyword": "let",
+            "definition": "Binds a value to a variable, with or without mutability.",
+            "type": "Variable Binding"
+        },
+        {
+            "keyword": "loop",
+            "definition": "Starts an infinite loop that can be controlled using break or continue.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "match",
+            "definition": "Compares a value against patterns and executes code based on which pattern matches.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "mod",
+            "definition": "Defines a module, a namespace for organizing code.",
+            "type": "Module"
+        },
+        {
+            "keyword": "move",
+            "definition": "Forces the ownership of a value to be transferred rather than borrowed.",
+            "type": "Ownership"
+        },
+        {
+            "keyword": "mut",
+            "definition": "Marks a variable as mutable, allowing its value to be changed.",
+            "type": "Variable Binding"
+        },
+        {
+            "keyword": "pub",
+            "definition": "Makes an item (function, struct, etc.) public, allowing it to be accessed from other modules or crates.",
+            "type": "Visibility"
+        },
+        {
+            "keyword": "ref",
+            "definition": "Creates a reference to a value without taking ownership of it.",
+            "type": "Ownership"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits from a function and optionally returns a value.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "self",
+            "definition": "Refers to the current instance of a struct or enum in method implementations.",
+            "type": "Instance Reference"
+        },
+        {
+            "keyword": "static",
+            "definition": "Defines a constant value or a function that is associated with the module rather than an instance.",
+            "type": "Constant"
+        },
+        {
+            "keyword": "struct",
+            "definition": "Defines a composite data type that groups together related data.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "trait",
+            "definition": "Defines a set of methods that can be implemented by types, similar to interfaces in other languages.",
+            "type": "Trait"
+        },
+        {
+            "keyword": "type",
+            "definition": "Defines a new type or alias for an existing type.",
+            "type": "Type Definition"
+        },
+        {
+            "keyword": "unsafe",
+            "definition": "Allows operations that bypass Rust’s safety guarantees, such as raw pointer manipulation.",
+            "type": "Safety"
+        },
+        {
+            "keyword": "use",
+            "definition": "Brings items (modules, functions, etc.) into scope to avoid having to use fully qualified paths.",
+            "type": "Namespace"
+        },
+        {
+            "keyword": "where",
+            "definition": "Specifies constraints on generic types in function and type definitions.",
+            "type": "Generics"
+        },
+        {
+            "keyword": "while",
+            "definition": "Starts a loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "yield",
+            "definition": "Pauses the execution of a generator and returns a value to the generator's caller.",
+            "type": "Generator"
+        }]

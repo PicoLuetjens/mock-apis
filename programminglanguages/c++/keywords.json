@@ -1,0 +1,356 @@
+"data": [
+        {
+            "keyword": "alignas",
+            "definition": "Specifies the alignment of a variable or structure.",
+            "type": "Type Modifier"
+        },
+        {
+            "keyword": "alignof",
+            "definition": "Returns the alignment requirement of a type.",
+            "type": "Type Query"
+        },
+        {
+            "keyword": "and",
+            "definition": "Logical AND operator (alternative to &&).",
+            "type": "Operator"
+        },
+        {
+            "keyword": "and_eq",
+            "definition": "Bitwise AND assignment operator (alternative to &=).",
+            "type": "Operator"
+        },
+        {
+            "keyword": "asm",
+            "definition": "Allows embedding assembly language code.",
+            "type": "Assembly"
+        },
+        {
+            "keyword": "auto",
+            "definition": "Automatically deduces the type of a variable from its initializer.",
+            "type": "Type Deduction"
+        },
+        {
+            "keyword": "bitand",
+            "definition": "Bitwise AND operator (alternative to &).",
+            "type": "Operator"
+        },
+        {
+            "keyword": "bitor",
+            "definition": "Bitwise OR operator (alternative to |).",
+            "type": "Operator"
+        },
+        {
+            "keyword": "bool",
+            "definition": "Defines a boolean type that can hold true or false.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "break",
+            "definition": "Exits from the current loop or switch statement.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "case",
+            "definition": "Specifies a branch in a switch statement. Each case corresponds to a constant value.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "catch",
+            "definition": "Defines a block of code to handle exceptions thrown in a try block.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "char",
+            "definition": "Defines a character type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "class",
+            "definition": "Defines a class, a user-defined type with attributes and methods.",
+            "type": "Class Definition"
+        },
+        {
+            "keyword": "compl",
+            "definition": "Bitwise complement operator (alternative to ~).",
+            "type": "Operator"
+        },
+        {
+            "keyword": "const",
+            "definition": "Defines a constant value that cannot be modified.",
+            "type": "Type Qualifier"
+        },
+        {
+            "keyword": "const_cast",
+            "definition": "Converts a pointer or reference to a const type to a non-const type.",
+            "type": "Type Casting"
+        },
+        {
+            "keyword": "continue",
+            "definition": "Skips the remaining code in the current iteration of a loop and proceeds with the next iteration.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "decltype",
+            "definition": "Deduce the type of an expression.",
+            "type": "Type Deduction"
+        },
+        {
+            "keyword": "default",
+            "definition": "Specifies the default case in a switch statement if no other case matches.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "delete",
+            "definition": "Deallocates memory previously allocated with new.",
+            "type": "Memory Management"
+        },
+        {
+            "keyword": "do",
+            "definition": "Starts a do-while loop that executes a block of code and then checks a condition.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "double",
+            "definition": "Defines a double-precision floating-point type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "dynamic_cast",
+            "definition": "Safely converts pointers or references to base or derived classes.",
+            "type": "Type Casting"
+        },
+        {
+            "keyword": "else",
+            "definition": "Defines a block of code to be executed if the condition in an if statement is false.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "enum",
+            "definition": "Defines an enumeration, a set of named integral constants.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "explicit",
+            "definition": "Specifies that a constructor or conversion operator should not be implicitly invoked.",
+            "type": "Function Modifier"
+        },
+        {
+            "keyword": "export",
+            "definition": "Used in template programming to indicate which symbols are available for instantiation (deprecated in C++11).",
+            "type": "Template"
+        },
+        {
+            "keyword": "extern",
+            "definition": "Specifies that a variable or function has external linkage.",
+            "type": "Linkage"
+        },
+        {
+            "keyword": "false",
+            "definition": "Represents a boolean value indicating false.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "float",
+            "definition": "Defines a single-precision floating-point type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "for",
+            "definition": "Starts a loop that can iterate over a range or execute until a condition is met.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "friend",
+            "definition": "Allows a function or class to access private and protected members of another class.",
+            "type": "Access Control"
+        },
+        {
+            "keyword": "goto",
+            "definition": "Unconditionally jumps to a specified label within the same function.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "if",
+            "definition": "Executes a block of code if its condition evaluates to true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "inline",
+            "definition": "Requests the compiler to insert the function's body directly into the caller's code for optimization.",
+            "type": "Function"
+        },
+        {
+            "keyword": "int",
+            "definition": "Defines an integer type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "long",
+            "definition": "Defines a long integer type, typically with greater precision than int.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "mutable",
+            "definition": "Specifies that a member of a class can be modified even if the class instance is const.",
+            "type": "Class Member"
+        },
+        {
+            "keyword": "namespace",
+            "definition": "Defines a scope that contains a set of identifiers to avoid name collisions.",
+            "type": "Namespace"
+        },
+        {
+            "keyword": "new",
+            "definition": "Allocates memory for an object and returns a pointer to it.",
+            "type": "Memory Management"
+        },
+        {
+            "keyword": "nullptr",
+            "definition": "Represents a null pointer constant.",
+            "type": "Pointer"
+        },
+        {
+            "keyword": "operator",
+            "definition": "Defines or overloads an operator for user-defined types.",
+            "type": "Operator Overloading"
+        },
+        {
+            "keyword": "private",
+            "definition": "Specifies that members of a class are accessible only within the class itself.",
+            "type": "Access Control"
+        },
+        {
+            "keyword": "protected",
+            "definition": "Specifies that members of a class are accessible within the class and its derived classes.",
+            "type": "Access Control"
+        },
+        {
+            "keyword": "public",
+            "definition": "Specifies that members of a class are accessible from outside the class.",
+            "type": "Access Control"
+        },
+        {
+            "keyword": "register",
+            "definition": "Requests the compiler to store a variable in a CPU register for faster access (deprecated in modern C++).",
+            "type": "Variable Storage"
+        },
+        {
+            "keyword": "reinterpret_cast",
+            "definition": "Performs a type cast that allows for low-level type conversions.",
+            "type": "Type Casting"
+        },
+        {
+            "keyword": "return",
+            "definition": "Exits from a function and optionally returns a value to the caller.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "short",
+            "definition": "Defines a short integer type, typically with a smaller range than int.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "signed",
+            "definition": "Specifies that a variable can hold both positive and negative values.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "sizeof",
+            "definition": "Returns the size, in bytes, of a variable or type.",
+            "type": "Type Query"
+        },
+        {
+            "keyword": "static",
+            "definition": "Specifies that a variable or function has internal linkage or that a member is shared among all instances of a class.",
+            "type": "Linkage/Storage"
+        },
+        {
+            "keyword": "struct",
+            "definition": "Defines a structure, a composite data type that groups together variables under a single name.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "switch",
+            "definition": "Evaluates an expression and executes the corresponding case block.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "template",
+            "definition": "Defines a template, which allows for generic programming by creating functions or classes that work with any data type.",
+            "type": "Generic Programming"
+        },
+        {
+            "keyword": "this",
+            "definition": "A pointer to the current instance of a class.",
+            "type": "Pointer"
+        },
+        {
+            "keyword": "throw",
+            "definition": "Throws an exception to be caught by a catch block.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "true",
+            "definition": "Represents a boolean value indicating true.",
+            "type": "Literal"
+        },
+        {
+            "keyword": "try",
+            "definition": "Defines a block of code that may throw exceptions, to be caught by catch blocks.",
+            "type": "Exception Handling"
+        },
+        {
+            "keyword": "typedef",
+            "definition": "Defines an alias for an existing type.",
+            "type": "Type Definition"
+        },
+        {
+            "keyword": "typeid",
+            "definition": "Returns type information at runtime.",
+            "type": "Type Query"
+        },
+        {
+            "keyword": "unsigned",
+            "definition": "Specifies that a variable cannot hold negative values.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "using",
+            "definition": "Introduces a name from a namespace or a base class into the current scope.",
+            "type": "Namespace"
+        },
+        {
+            "keyword": "virtual",
+            "definition": "Specifies that a method can be overridden in derived classes.",
+            "type": "Polymorphism"
+        },
+        {
+            "keyword": "void",
+            "definition": "Specifies that a function does not return a value or a pointer to an unknown type.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "volatile",
+            "definition": "Specifies that a variable's value may be changed by external factors and should not be optimized by the compiler.",
+            "type": "Type Qualifier"
+        },
+        {
+            "keyword": "wchar_t",
+            "definition": "Defines a wide character type for representing larger character sets.",
+            "type": "Data Type"
+        },
+        {
+            "keyword": "while",
+            "definition": "Starts a loop that continues executing as long as its condition is true.",
+            "type": "Control Flow"
+        },
+        {
+            "keyword": "xor",
+            "definition": "Bitwise XOR operator (alternative to ^).",
+            "type": "Operator"
+        },
+        {
+            "keyword": "xor_eq",
+            "definition": "Bitwise XOR assignment operator (alternative to ^=).",
+            "type": "Operator"
+        }]
