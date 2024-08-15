@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "auto",
             "definition": "Specifies that a variable has automatic storage duration (local to the block). This is the default storage class for local variables.",
@@ -158,4 +158,5 @@
             "keyword": "while",
             "definition": "Creates a while loop that continues executing as long as its condition is true.",
             "type": "Control Flow"
-        }]
+        }
+]
