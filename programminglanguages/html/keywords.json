@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "tag": "a",
             "definition": "Defines a hyperlink that links to another page or resource.",
@@ -406,4 +406,5 @@
             "definition": "Suggests an optional line break opportunity within text.",
             "attributes": [],
             "type": "Inline"
-        }]
+        }
+]
