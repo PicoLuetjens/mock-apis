@@ -1,0 +1,492 @@
+[
+    {
+      "season": "2023-2024",
+      "winner": "Real Madrid",
+      "runner_up": "Borussia Dortmund",
+      "final_score": "2-0",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "2022-2023",
+      "winner": "Manchester City",
+      "runner_up": "Inter Milan",
+      "final_score": "1-0",
+      "stadium": "Atatürk Olympic Stadium, Istanbul, Turkey"
+    },
+    {
+      "season": "2021-2022",
+      "winner": "Real Madrid",
+      "runner_up": "Liverpool",
+      "final_score": "1-0",
+      "stadium": "Stade de France, Saint-Denis, France"
+    },
+    {
+      "season": "2020-2021",
+      "winner": "Chelsea",
+      "runner_up": "Manchester City",
+      "final_score": "1-0",
+      "stadium": "Estádio do Dragão, Porto, Portugal"
+    },
+    {
+      "season": "2019-2020",
+      "winner": "Bayern Munich",
+      "runner_up": "Paris Saint-Germain",
+      "final_score": "1-0",
+      "stadium": "Estádio da Luz, Lisbon, Portugal"
+    },
+    {
+      "season": "2018-2019",
+      "winner": "Liverpool",
+      "runner_up": "Tottenham Hotspur",
+      "final_score": "2-0",
+      "stadium": "Wanda Metropolitano, Madrid, Spain"
+    },
+    {
+      "season": "2017-2018",
+      "winner": "Real Madrid",
+      "runner_up": "Liverpool",
+      "final_score": "3-1",
+      "stadium": "NSC Olimpiyskiy, Kyiv, Ukraine"
+    },
+    {
+      "season": "2016-2017",
+      "winner": "Real Madrid",
+      "runner_up": "Juventus",
+      "final_score": "4-1",
+      "stadium": "Millennium Stadium, Cardiff, Wales"
+    },
+    {
+      "season": "2015-2016",
+      "winner": "Real Madrid",
+      "runner_up": "Atlético Madrid",
+      "final_score": "1-1 (5-3 on penalties)",
+      "stadium": "San Siro, Milan, Italy"
+    },
+    {
+      "season": "2014-2015",
+      "winner": "Barcelona",
+      "runner_up": "Juventus",
+      "final_score": "3-1",
+      "stadium": "Olympiastadion, Berlin, Germany"
+    },
+    {
+      "season": "2013-2014",
+      "winner": "Real Madrid",
+      "runner_up": "Atlético Madrid",
+      "final_score": "4-1 (a.e.t.)",
+      "stadium": "Estádio da Luz, Lisbon, Portugal"
+    },
+    {
+      "season": "2012-2013",
+      "winner": "Bayern Munich",
+      "runner_up": "Borussia Dortmund",
+      "final_score": "2-1",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "2011-2012",
+      "winner": "Chelsea",
+      "runner_up": "Bayern Munich",
+      "final_score": "1-1 (4-3 on penalties)",
+      "stadium": "Allianz Arena, Munich, Germany"
+    },
+    {
+      "season": "2010-2011",
+      "winner": "Barcelona",
+      "runner_up": "Manchester United",
+      "final_score": "3-1",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "2009-2010",
+      "winner": "Inter Milan",
+      "runner_up": "Bayern Munich",
+      "final_score": "2-0",
+      "stadium": "Santiago Bernabéu Stadium, Madrid, Spain"
+    },
+    {
+      "season": "2008-2009",
+      "winner": "Barcelona",
+      "runner_up": "Manchester United",
+      "final_score": "2-0",
+      "stadium": "Stadio Olimpico, Rome, Italy"
+    },
+    {
+      "season": "2007-2008",
+      "winner": "Manchester United",
+      "runner_up": "Chelsea",
+      "final_score": "1-1 (6-5 on penalties)",
+      "stadium": "Luzhniki Stadium, Moscow, Russia"
+    },
+    {
+      "season": "2006-2007",
+      "winner": "AC Milan",
+      "runner_up": "Liverpool",
+      "final_score": "2-1",
+      "stadium": "Olympic Stadium, Athens, Greece"
+    },
+    {
+      "season": "2005-2006",
+      "winner": "Barcelona",
+      "runner_up": "Arsenal",
+      "final_score": "2-1",
+      "stadium": "Stade de France, Saint-Denis, France"
+    },
+    {
+      "season": "2004-2005",
+      "winner": "Liverpool",
+      "runner_up": "AC Milan",
+      "final_score": "3-3 (3-2 on penalties)",
+      "stadium": "Atatürk Olympic Stadium, Istanbul, Turkey"
+    },
+    {
+      "season": "2003-2004",
+      "winner": "Porto",
+      "runner_up": "Monaco",
+      "final_score": "3-0",
+      "stadium": "Arena AufSchalke, Gelsenkirchen, Germany"
+    },
+    {
+      "season": "2002-2003",
+      "winner": "AC Milan",
+      "runner_up": "Juventus",
+      "final_score": "0-0 (3-2 on penalties)",
+      "stadium": "Old Trafford, Manchester, England"
+    },
+    {
+      "season": "2001-2002",
+      "winner": "Real Madrid",
+      "runner_up": "Bayer Leverkusen",
+      "final_score": "2-1",
+      "stadium": "Hampden Park, Glasgow, Scotland"
+    },
+    {
+      "season": "2000-2001",
+      "winner": "Bayern Munich",
+      "runner_up": "Valencia",
+      "final_score": "1-1 (5-4 on penalties)",
+      "stadium": "San Siro, Milan, Italy"
+    },
+    {
+      "season": "1999-2000",
+      "winner": "Real Madrid",
+      "runner_up": "Valencia",
+      "final_score": "3-0",
+      "stadium": "Stade de France, Saint-Denis, France"
+    },
+    {
+      "season": "1998-1999",
+      "winner": "Manchester United",
+      "runner_up": "Bayern Munich",
+      "final_score": "2-1",
+      "stadium": "Camp Nou, Barcelona, Spain"
+    },
+    {
+      "season": "1997-1998",
+      "winner": "Real Madrid",
+      "runner_up": "Juventus",
+      "final_score": "1-0",
+      "stadium": "Amsterdam Arena, Amsterdam, Netherlands"
+    },
+    {
+      "season": "1996-1997",
+      "winner": "Borussia Dortmund",
+      "runner_up": "Juventus",
+      "final_score": "3-1",
+      "stadium": "Olympiastadion, Munich, Germany"
+    },
+    {
+      "season": "1995-1996",
+      "winner": "Juventus",
+      "runner_up": "Ajax",
+      "final_score": "1-1 (4-2 on penalties)",
+      "stadium": "Stadio Olimpico, Rome, Italy"
+    },
+    {
+      "season": "1994-1995",
+      "winner": "Ajax",
+      "runner_up": "AC Milan",
+      "final_score": "1-0",
+      "stadium": "Ernst Happel Stadium, Vienna, Austria"
+    },
+    {
+      "season": "1993-1994",
+      "winner": "AC Milan",
+      "runner_up": "Barcelona",
+      "final_score": "4-0",
+      "stadium": "Olympic Stadium, Athens, Greece"
+    },
+    {
+      "season": "1992-1993",
+      "winner": "Marseille",
+      "runner_up": "AC Milan",
+      "final_score": "1-0",
+      "stadium": "Olympiastadion, Munich, Germany"
+    },
+    {
+      "season": "1992-1993",
+      "winner": "Marseille",
+      "runner_up": "AC Milan",
+      "final_score": "1-0",
+      "stadium": "Olympiastadion, Munich, Germany"
+    },
+    {
+      "season": "1991-1992",
+      "winner": "Barcelona",
+      "runner_up": "Sampdoria",
+      "final_score": "1-0 (a.e.t.)",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "1990-1991",
+      "winner": "Red Star Belgrade",
+      "runner_up": "Marseille",
+      "final_score": "0-0 (5-3 on penalties)",
+      "stadium": "Stadio San Nicola, Bari, Italy"
+    },
+    {
+      "season": "1989-1990",
+      "winner": "AC Milan",
+      "runner_up": "Benfica",
+      "final_score": "1-0",
+      "stadium": "Praterstadion, Vienna, Austria"
+    },
+    {
+      "season": "1988-1989",
+      "winner": "AC Milan",
+      "runner_up": "Steaua Bucharest",
+      "final_score": "4-0",
+      "stadium": "Camp Nou, Barcelona, Spain"
+    },
+    {
+      "season": "1987-1988",
+      "winner": "PSV Eindhoven",
+      "runner_up": "Benfica",
+      "final_score": "0-0 (6-5 on penalties)",
+      "stadium": "Neckarstadion, Stuttgart, West Germany"
+    },
+    {
+      "season": "1986-1987",
+      "winner": "Porto",
+      "runner_up": "Bayern Munich",
+      "final_score": "2-1",
+      "stadium": "Praterstadion, Vienna, Austria"
+    },
+    {
+      "season": "1985-1986",
+      "winner": "Steaua Bucharest",
+      "runner_up": "Barcelona",
+      "final_score": "0-0 (2-0 on penalties)",
+      "stadium": "Estadio Ramón Sánchez Pizjuán, Seville, Spain"
+    },
+    {
+      "season": "1984-1985",
+      "winner": "Juventus",
+      "runner_up": "Liverpool",
+      "final_score": "1-0",
+      "stadium": "Heysel Stadium, Brussels, Belgium"
+    },
+    {
+      "season": "1983-1984",
+      "winner": "Liverpool",
+      "runner_up": "Roma",
+      "final_score": "1-1 (4-2 on penalties)",
+      "stadium": "Stadio Olimpico, Rome, Italy"
+    },
+    {
+      "season": "1982-1983",
+      "winner": "Hamburg",
+      "runner_up": "Juventus",
+      "final_score": "1-0",
+      "stadium": "Olympiacos Stadium, Athens, Greece"
+    },
+    {
+      "season": "1981-1982",
+      "winner": "Aston Villa",
+      "runner_up": "Bayern Munich",
+      "final_score": "1-0",
+      "stadium": "De Kuip, Rotterdam, Netherlands"
+    },
+    {
+      "season": "1980-1981",
+      "winner": "Liverpool",
+      "runner_up": "Real Madrid",
+      "final_score": "1-0",
+      "stadium": "Parc des Princes, Paris, France"
+    },
+    {
+      "season": "1979-1980",
+      "winner": "Nottingham Forest",
+      "runner_up": "Hamburg",
+      "final_score": "1-0",
+      "stadium": "Santiago Bernabéu Stadium, Madrid, Spain"
+    },
+    {
+      "season": "1978-1979",
+      "winner": "Nottingham Forest",
+      "runner_up": "Malmö FF",
+      "final_score": "1-0",
+      "stadium": "Olympiastadion, Munich, West Germany"
+    },
+    {
+      "season": "1977-1978",
+      "winner": "Liverpool",
+      "runner_up": "Club Brugge",
+      "final_score": "1-0",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "1976-1977",
+      "winner": "Liverpool",
+      "runner_up": "Borussia Mönchengladbach",
+      "final_score": "3-1",
+      "stadium": "Stadio Olimpico, Rome, Italy"
+    },
+    {
+      "season": "1975-1976",
+      "winner": "Bayern Munich",
+      "runner_up": "Saint-Étienne",
+      "final_score": "1-0",
+      "stadium": "Hampden Park, Glasgow, Scotland"
+    },
+    {
+      "season": "1974-1975",
+      "winner": "Bayern Munich",
+      "runner_up": "Leeds United",
+      "final_score": "2-0",
+      "stadium": "Parc des Princes, Paris, France"
+    },
+    {
+      "season": "1973-1974",
+      "winner": "Bayern Munich",
+      "runner_up": "Atlético Madrid",
+      "final_score": "1-1 (4-0 in replay)",
+      "stadium": "Heysel Stadium, Brussels, Belgium"
+    },
+    {
+      "season": "1972-1973",
+      "winner": "Ajax",
+      "runner_up": "Juventus",
+      "final_score": "1-0",
+      "stadium": "Red Star Stadium, Belgrade, Yugoslavia"
+    },
+    {
+      "season": "1971-1972",
+      "winner": "Ajax",
+      "runner_up": "Inter Milan",
+      "final_score": "2-0",
+      "stadium": "De Kuip, Rotterdam, Netherlands"
+    },
+    {
+      "season": "1970-1971",
+      "winner": "Ajax",
+      "runner_up": "Panathinaikos",
+      "final_score": "2-0",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "1969-1970",
+      "winner": "Feyenoord",
+      "runner_up": "Celtic",
+      "final_score": "2-1 (a.e.t.)",
+      "stadium": "San Siro, Milan, Italy"
+    },
+    {
+      "season": "1968-1969",
+      "winner": "AC Milan",
+      "runner_up": "Ajax",
+      "final_score": "4-1",
+      "stadium": "Santiago Bernabéu Stadium, Madrid, Spain"
+    },
+    {
+      "season": "1967-1968",
+      "winner": "Manchester United",
+      "runner_up": "Benfica",
+      "final_score": "4-1 (a.e.t.)",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "1966-1967",
+      "winner": "Celtic",
+      "runner_up": "Inter Milan",
+      "final_score": "2-1",
+      "stadium": "Estádio Nacional, Lisbon, Portugal"
+    },
+    {
+      "season": "1965-1966",
+      "winner": "Real Madrid",
+      "runner_up": "Partizan",
+      "final_score": "2-1",
+      "stadium": "Heysel Stadium, Brussels, Belgium"
+    },
+    {
+      "season": "1964-1965",
+      "winner": "Inter Milan",
+      "runner_up": "Benfica",
+      "final_score": "1-0",
+      "stadium": "San Siro, Milan, Italy"
+    },
+    {
+      "season": "1963-1964",
+      "winner": "Inter Milan",
+      "runner_up": "Real Madrid",
+      "final_score": "3-1",
+      "stadium": "Praterstadion, Vienna, Austria"
+    },
+    {
+      "season": "1962-1963",
+      "winner": "AC Milan",
+      "runner_up": "Benfica",
+      "final_score": "2-1",
+      "stadium": "Wembley Stadium, London, England"
+    },
+    {
+      "season": "1961-1962",
+      "winner": "Benfica",
+      "runner_up": "Real Madrid",
+      "final_score": "5-3",
+      "stadium": "Olympisch Stadion, Amsterdam, Netherlands"
+    },
+    {
+      "season": "1960-1961",
+      "winner": "Benfica",
+      "runner_up": "Barcelona",
+      "final_score": "3-2",
+      "stadium": "Wankdorf Stadium, Bern, Switzerland"
+    },
+    {
+      "season": "1959-1960",
+      "winner": "Real Madrid",
+      "runner_up": "Eintracht Frankfurt",
+      "final_score": "7-3",
+      "stadium": "Hampden Park, Glasgow, Scotland"
+    },
+    {
+      "season": "1958-1959",
+      "winner": "Real Madrid",
+      "runner_up": "Reims",
+      "final_score": "2-0",
+      "stadium": "Neckarstadion, Stuttgart, West Germany"
+    },
+    {
+      "season": "1957-1958",
+      "winner": "Real Madrid",
+      "runner_up": "AC Milan",
+      "final_score": "3-2 (a.e.t.)",
+      "stadium": "Heysel Stadium, Brussels, Belgium"
+    },
+    {
+      "season": "1956-1957",
+      "winner": "Real Madrid",
+      "runner_up": "Fiorentina",
+      "final_score": "2-0",
+      "stadium": "Santiago Bernabéu Stadium, Madrid, Spain"
+    },
+    {
+      "season": "1955-1956",
+      "winner": "Real Madrid",
+      "runner_up": "Reims",
+      "final_score": "4-3",
+      "stadium": "Parc des Princes, Paris, France"
+    }
+]
