@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "alias",
             "definition": "Creates an alias for an existing method or variable.",
@@ -188,4 +188,5 @@
             "keyword": "yield",
             "definition": "Pauses the execution of a method and passes control back to the block of code that was passed to it.",
             "type": "Method Control"
-        }]
+        }
+]
