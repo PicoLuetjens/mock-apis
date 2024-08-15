@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "break",
             "definition": "Exits from the current loop or switch statement.",
@@ -123,4 +123,5 @@
             "keyword": "interface",
             "definition": "Defines an interface that specifies methods a type must implement.",
             "type": "Type Definition"
-        }]
+        }
+]
