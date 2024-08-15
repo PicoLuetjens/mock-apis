@@ -1,0 +1,23 @@
+[
+    {
+      "season": "2023-2024",
+      "winner": "Olympiacos Piraeus",
+      "runner_up": "Fiorentina",
+      "final_score": "1-0",
+      "stadium": "Agia Sophia Stadium, Athens, Greece"
+    },
+    {
+      "season": "2022-2023",
+      "winner": "West Ham United",
+      "runner_up": "Fiorentina",
+      "final_score": "2-1",
+      "stadium": "Eden Arena, Prague, Czech Republic"
+    },
+    {
+      "season": "2021-2022",
+      "winner": "Roma",
+      "runner_up": "Feyenoord",
+      "final_score": "1-0",
+      "stadium": "Arena Kombëtare, Tirana, Albania"
+    }
+  ]
