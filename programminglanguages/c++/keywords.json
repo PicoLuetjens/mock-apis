@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "alignas",
             "definition": "Specifies the alignment of a variable or structure.",
@@ -353,4 +353,5 @@
             "keyword": "xor_eq",
             "definition": "Bitwise XOR assignment operator (alternative to ^=).",
             "type": "Operator"
-        }]
+        }
+]
