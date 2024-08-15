@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "False",
             "definition": "Boolean value indicating falsehood. It is a constant of the type bool.",
@@ -163,4 +163,5 @@
             "keyword": "yield",
             "definition": "Used to produce a value from a generator function and pause its execution.",
             "type": "Generator"
-        }]
+        }
+]
