@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "await",
             "definition": "Pauses the execution of an async function until a Promise is resolved.",
@@ -188,4 +188,5 @@
             "keyword": "yield",
             "definition": "Pauses a generator function and returns a value to the generator's caller.",
             "type": "Generator"
-        }]
+        }
+]
