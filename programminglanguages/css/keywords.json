@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "property": "color",
             "definition": "Sets the color of the text.",
@@ -143,4 +143,5 @@
             "selector": "element::after",
             "definition": "Inserts content after the content of an element.",
             "examples": ["div::after { content: ' - Additional info'; }"]
-        }]
+        }
+]
