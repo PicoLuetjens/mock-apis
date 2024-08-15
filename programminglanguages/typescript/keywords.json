@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "abstract",
             "definition": "Used to define an abstract class or method. Abstract classes cannot be instantiated and abstract methods must be implemented by derived classes.",
@@ -258,4 +258,5 @@
             "keyword": "yield",
             "definition": "Pauses a generator function and returns a value to the generator's caller.",
             "type": "Generator"
-        }]
+        }
+]
