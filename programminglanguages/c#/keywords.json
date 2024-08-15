@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "abstract",
             "definition": "Defines an abstract class or method. An abstract class cannot be instantiated and an abstract method must be implemented by derived classes.",
@@ -378,4 +378,5 @@
             "keyword": "while",
             "definition": "Starts a loop that continues executing as long as its condition is true.",
             "type": "Control Flow"
-        }]
+        }
+]
