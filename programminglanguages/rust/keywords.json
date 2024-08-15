@@ -1,4 +1,4 @@
-"data": [
+[
         {
             "keyword": "as",
             "definition": "Used for type casting and renaming imports.",
@@ -168,4 +168,5 @@
             "keyword": "yield",
             "definition": "Pauses the execution of a generator and returns a value to the generator's caller.",
             "type": "Generator"
-        }]
+        }
+]
